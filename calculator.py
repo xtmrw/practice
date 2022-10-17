@@ -7,5 +7,5 @@ def subtract(a,b):
 def devide(a,b):
     return a/b
 
-def multiply_premium(a,b):
+def multiply_new(a,b):
     return a*b
